@@ -13,9 +13,9 @@ A responsive web application that allows users to register, login, and book vari
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Java (Servlets/JSP or basic Java logic)
-- **Database:** (Mention if used – e.g., MySQL)
+- **Database:** (MySQL)
 - **Tools:** VS Code, Git, GitHub
 
 ## 📸 Screenshots
-
+ 
 > Add image links here using:
